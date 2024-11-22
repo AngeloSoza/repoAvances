@@ -48,8 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\..\..\proyectoFinalMeto\ControlInventario.cs">
-      <SubType>Form</SubType>
       <Link>ControlDeInventario\ControlInventario.cs</Link>
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="..\..\..\proyectoFinalMeto\ControlInventario.Designer.cs">
       <DependentUpon>ControlInventario.cs</DependentUpon>

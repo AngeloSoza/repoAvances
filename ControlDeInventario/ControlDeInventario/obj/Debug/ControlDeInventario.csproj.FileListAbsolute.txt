@@ -1,0 +1,11 @@
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe.config
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.exe
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\bin\Debug\ControlDeInventario.pdb
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.FrmInicioSesion.resources
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.Properties.Resources.resources
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.exe
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.pdb
+C:\Users\angel\OneDrive\Desktop\ProyectoFinal\ControlDeInventario\ControlDeInventario\obj\Debug\ControlDeInventario.ControlDeInventario.ControlInventario.resources
